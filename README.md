@@ -40,3 +40,8 @@ Arquivo responsável por armazenar os dados do aquário.
       "tank number": 11,
       "type": "fish"
     }
+```
+
+## 🐍 gerencia_aquario.py
+
+Script principal responsável por processar e manipular os dados do aquário.
